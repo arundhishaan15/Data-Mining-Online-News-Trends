@@ -1,4 +1,4 @@
-# Data-Mining-Online-News-Trends
+# Text-Mining-Online-News-Trends
 
 In this project top 20 online trending articles about Indian National News were taken from four popular News Channels: Wall Street Journal, Times of India, Hindustan Times and Then Indian Express.
 
